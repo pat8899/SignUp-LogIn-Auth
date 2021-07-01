@@ -1,0 +1,14 @@
+.SignupPlaceholder {
+    background-color: grey;
+    position: center;
+    width: 650px;
+    height: 300px;
+    margin-bottom: 40px;
+
+    float: center;
+
+}
+
+.SignupGap {
+    margin-top: 40px;
+}

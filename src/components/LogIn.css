@@ -1,0 +1,70 @@
+.Login_Grid {
+    display: grid;
+    grid-column: 1fr 1fr;
+}
+
+.LoginWraper {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.LoginBtnLarge {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    padding-left: 15px 50px 15px 50px;
+    width: 100px;
+    height: 40px;
+    background-color: grey;
+  }
+  .ForgotPw {
+      display: inline-flex;
+      float: right;
+      margin-bottom: 30px;
+  }
+
+  .LoginImg {
+      padding: 300px;
+      background-color: rgb(240, 235, 235);
+      border-radius: 8px;
+      margin: 40px;
+  }
+
+.LoginHeader {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 70px;
+    color:  #666565;
+  }
+  .LoginHeader2 {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 70px;
+    color:  #666565;
+    margin-bottom: 50px;
+  }
+  .LoginSmallHeader {
+    font-family: Arial;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 86px;
+    color: #666565;
+  }
+
+  .dropdown-item {
+      display: flex;
+      text-align: center;
+      self-align: center;
+      margin-top: 20px;
+      float: center;
+      padding-left: 190px;
+  }
+
